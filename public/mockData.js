@@ -1012,3 +1012,13 @@ const mockData = {
         "status": "ok"
     }
 }
+
+// const { GME, MSFT, DIS, BNTX } = mockData;
+// const stocks = [GME, MSFT, DIS, BNTX];
+
+
+// let highValues = stocks[0].values.map(value => parseFloat(value.high))
+
+
+
+// console.log(getHighestValue(highValues))
